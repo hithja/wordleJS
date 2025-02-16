@@ -1,0 +1,17 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "The Wordle Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "wordle"
+  ],
+  "author": "hithja",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
